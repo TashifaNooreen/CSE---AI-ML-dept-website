@@ -1,1 +1,1 @@
-# My Website
+# CSE-AI&ML Department website
